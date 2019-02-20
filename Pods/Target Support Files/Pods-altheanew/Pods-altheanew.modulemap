@@ -1,0 +1,6 @@
+framework module Pods_altheanew {
+  umbrella header "Pods-altheanew-umbrella.h"
+
+  export *
+  module * { export * }
+}
